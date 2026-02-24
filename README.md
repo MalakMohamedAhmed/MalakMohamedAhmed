@@ -63,6 +63,7 @@ I engineer predictive systems and build AI-driven solutions grounded in statisti
 
 📩 Email: sci.MalakMohamed40457@alexu.edu.eg
 
+kaggle: https://www.kaggle.com/malakmohamed777
 
 # 💡 Philosophy
     Data explains.
