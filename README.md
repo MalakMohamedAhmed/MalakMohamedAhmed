@@ -1,71 +1,181 @@
-👩‍💻 Malak Mohamed
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0E76A8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast;Turning+Data+Into+Intelligent+Systems" /> </p> <p align="center"> 🎓 Computer Science & Statistics — GPA 3.88 <br> 🏆 Kaggle Expert <br> 📍 Alexandria, Egypt <br> 🚀 Open to AI Engineer | ML Engineer | Data Scientist Roles </p>
+# 👩‍💻 Malak Mohamed Ahmed
 
-🌟 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0E76A8&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;Building+End-to-End+Intelligent+Systems" />
+</p>
 
-I work across the complete intelligent data pipeline:
+<p align="center">
+🎓 Computer Science & Statistics — CGPA 3.88 <br>
+🚀 Africa to Silicon Valley (A2SV) Trainee <br>
+🏆 Kaggle Competitor <br>
+📍 Alexandria, Egypt <br>
+💼 Open to AI Engineer | ML Engineer Roles
+</p>
 
-    Raw Data → Analysis → Modeling → Machine Learning → Intelligent Systems
+---
 
-I don’t just analyze datasets.
-I engineer predictive systems and build AI-driven solutions grounded in statistical rigor and optimization principles.
+## 🌟 About Me
 
-# 🔍 My Three Core Domains
-## 📈 Data Analysis — Understanding the Story
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- KPI Development & Visualization
-- Trend & Pattern Detection
-- Statistical Summaries
-🎯 Transforming raw data into actionable insight.
+I engineer **end-to-end intelligent systems** — from raw data to deployed AI applications.
 
-## 📊 Data Science — Predictive Intelligence
-- Feature Engineering
-- Hypothesis Testing
-- Regression & Classification
-- Model Validation & Cross-Validation
-- Bias–Variance Optimization
-🎯 Designing predictive systems backed by statistical discipline.
+        Data → Statistical Analysis → Feature Engineering → ML/DL Modeling → Optimization → Deployment
 
-## 🤖 Artificial Intelligence & Machine Learning — Engineering Intelligence
-- Supervised Learning Pipelines
-- Hyperparameter Tuning
-- Model Performance Optimization
-- End-to-End ML Workflows
-- Generalization & Robustness Improvement
-🎯 Building scalable AI systems that learn and adapt.
 
-# 🛠 Technical Stack
-## 💻 Programming
-<p align="center"> <img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/R-Basic-lightgrey?style=for-the-badge&logo=r&logoColor=white" /> </p>
+I combine strong mathematical foundations with hands-on engineering experience in:
 
-## 📚 Libraries & Frameworks
-<p align="center"> <img src="https://img.shields.io/badge/Pandas-Data_Manipulation-black?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-lightgrey?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-Statistical_Plots-blueviolet?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-Neural_Networks-red?style=for-the-badge&logo=keras&logoColor=white" /> </p>
+- Machine Learning pipelines  
+- Deep Learning & Computer Vision  
+- Model optimization & generalization  
+- Full-stack ML deployment (Flask / Streamlit / Hugging Face)  
 
-## 📐 Foundations & Concepts
-<p align="center"> <img src="https://img.shields.io/badge/Linear_Algebra-Fundamentals-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Probability_&_Statistics-Intermediate-lightgrey?style=for-the-badge" /> <img src="https://img.shields.io/badge/EDA_&_Feature_Engineering-Advanced-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/ML_Algorithms-Supervised_&_Unsupervised-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Model_Validation_CV-Advanced-orange?style=for-the-badge" /> </p>
+I don’t just train models — I design systems that work in production environments.
 
-# 🏆 Experience Highlights
-- 🤖 AI & Machine Learning Trainee — NTI / IEEE SSCS
-- 📊 Applied Data Science Lab — WorldQuant University
-- 🧠 AI & Data Science Internships and trainings
-- 🏅 Kaggle Competitions
-- 💡 Microsoft Student Club — Technical Community
+---
 
-# 🚀 Current Focus
-- Strengthening model generalization
-- Advancing ML optimization techniques
-- Expanding toward advanced machine learning & deep learning
-- Applying AI in climate & environmental analytics
+## 🔍 Core Expertise
 
-# 📫 Let’s Connect
-🔗 LinkedIn: https://www.linkedin.com/in/malak~mohamed/
+### 📊 Data Science & Statistical Modeling
+- Advanced EDA & Feature Engineering  
+- Hypothesis Testing (Scipy, Statsmodels)  
+- Regression & Classification  
+- Cross-Validation & Bias–Variance Control  
+- Imbalanced Data Handling (Imblearn)  
 
-📩 Email: sci.MalakMohamed40457@alexu.edu.eg
+### 🤖 Machine Learning Engineering
+- Scikit-Learn Pipelines  
+- Gradient Boosting (XGBoost, LightGBM)  
+- Model Interpretability (SHAP)  
+- Hyperparameter Optimization (Keras-Tuner)  
+- Model Persistence (Pickle)  
 
-kaggle: https://www.kaggle.com/malakmohamed777
+### 🧠 Deep Learning & AI
+- PyTorch & TensorFlow  
+- Transformers  
+- Computer Vision (OpenCV)  
+- Image Classification Systems  
+- Generalization & Performance Tuning  
 
-# 💡 Philosophy
-    Data explains.
-    Science models.
-    AI learns.
+### 🚀 Deployment & Production
+- Flask ML APIs  
+- Streamlit Applications  
+- Hugging Face Spaces Deployment  
+- SQL Database Design (MySQL)  
+- Git & Version Control  
+
+---
+
+## 🏗 Featured Projects
+
+### 🌾 Smart Farm Pest Recognition System (Deep Learning)
+- Built an end-to-end insect classification system for agricultural support.  
+- Trained DL models using PyTorch, TensorFlow & Transformers.  
+- Applied OpenCV preprocessing pipelines.  
+- Tuned models with Keras-Tuner.  
+- Deployed full-stack system using Flask + HTML/CSS.  
+
+**Focus:** Computer Vision + Model Optimization + Deployment  
+
+---
+
+### ✈️ Flight Price Prediction System
+- Conducted advanced EDA using Pandas, Plotly & Seaborn.  
+- Engineered full ML pipeline for price forecasting.  
+- Implemented model interpretability.  
+- Deployed via Streamlit on Hugging Face Spaces.  
+
+**Focus:** Predictive Modeling + Deployment + Interpretability  
+
+---
+
+### 💳 Loan Approval Classification
+- Built a classification system for loan eligibility.  
+- Applied statistical analysis for feature evaluation.  
+- Optimized XGBoost & LightGBM models.  
+- Solved class imbalance using Imblearn.  
+
+**Focus:** Gradient Boosting + Statistical Rigor + Robust Modeling  
+
+---
+
+### 🗄 BikeStore Relational Database (SQL Engineering)
+- Designed full ER Diagram.  
+- Built normalized MySQL schema.  
+- Implemented optimized queries with PK/FK relationships.  
+
+**Focus:** Database Architecture & Data Integrity  
+
+---
+
+## 🏢 Experience
+
+**AI & Data Science Intern — Bibliotheca Alexandrina (ICT Sector)**  
+Worked on AI-driven and climate-related data initiatives.
+
+**Data Analysis Intern — Truvian Intelligence**
+
+**AI & Data Science Trainee — National Telecommunication Institute (NTI)**
+
+**Samsung Innovation Campus — AI & Data Science Scholarship**
+
+**Africa to Silicon Valley (A2SV) — Software Engineering Training (Remote)**
+
+---
+
+## 🛠 Technical Stack
+
+### 💻 Languages
+Python (Advanced)  
+Java (Advanced)  
+SQL (Intermediate)  
+C++ (Basic)  
+HTML/CSS/JavaScript  
+
+### 📚 ML & Data
+Pandas • NumPy • Scikit-Learn • XGBoost • LightGBM  
+Scipy • Statsmodels • Imblearn • SHAP  
+
+### 🤖 Deep Learning
+PyTorch • TensorFlow • Keras • Transformers • OpenCV  
+
+### 📊 Visualization
+Matplotlib • Seaborn • Plotly • Power BI • Tableau  
+
+### 🚀 Deployment & Tools
+Flask • Streamlit • Hugging Face Spaces  
+MySQL • Git/GitHub • Figma  
+
+---
+
+## 🏆 Leadership & Activities
+
+- Vice President — Greenish Alexandria Club  
+- Head of Academic Sector — Keep Going Initiative  
+- Microsoft Student Club — Technical Member  
+- Enactus Alexandria University — Presentation & Script Writing Member  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced ML Optimization  
+- Model Generalization & Robustness  
+- Deep Learning Architecture Design  
+- AI for Climate & Environmental Analytics  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/malak~mohamed  
+💻 GitHub: https://github.com/MalakMohamedAhmed  
+📊 Kaggle: https://www.kaggle.com/malakmohamed777  
+📩 Email: sci.MalakMohamed40457@alexu.edu.eg  
+
+---
+
+## 💡 Philosophy
+
+> Data explains.  
+> Statistics validates.  
+> AI learns.  
+> Engineering delivers.
